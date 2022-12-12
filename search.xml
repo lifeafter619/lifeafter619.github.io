@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Blogger</title>
+      <link href="/Blogger/"/>
+      <url>/Blogger/</url>
+      
+        <content type="html"><![CDATA[<p>监控stellar主题</p><div class="tag-plugin timeline stellar-timeline-api" api="https://api.github.com/repos/xaoxuu/hexo-theme-stellar/releases?per_page=2"></div><p>监控NotionNext</p><div class="tag-plugin timeline stellar-timeline-api" api="https://api.github.com/repos/tangly1024/NotionNext/releases?per_page=2"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
